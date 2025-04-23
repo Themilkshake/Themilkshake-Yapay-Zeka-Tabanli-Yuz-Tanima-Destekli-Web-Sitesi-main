@@ -1,1 +1,1 @@
-#Yapay Zeka Tabanlı Yüz Tanıma Destekli Web Sitesi
+Yapay Zeka Tabanlı Yüz Tanıma Destekli Web Sitesi
