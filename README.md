@@ -1,1 +1,1 @@
-# Themilkshake-Yapay-Zeka-Tabanli-Yuz-Tanima-Destekli-Web-Sitesi-main
+#Yapay Zeka Tabanlı Yüz Tanıma Destekli Web Sitesi
